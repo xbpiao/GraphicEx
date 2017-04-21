@@ -7,7 +7,7 @@ uses
   GraphicColor in '..\..\GraphicColor.pas',
   GraphicCompression in '..\..\GraphicCompression.pas',
   GraphicEx in '..\..\GraphicEx.pas',
-  JPG in '..\..\JPG.pas',
+  JPG in '..\..\jpg\JPG.pas',
   MZLib in '..\..\MZLib.pas';
 
 {$R *.res}
